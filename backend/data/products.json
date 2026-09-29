@@ -1,0 +1,79 @@
+[
+  {
+    "id": "P_mumx38yq_5650a1",
+    "title": "logo",
+    "titleEn": "logo",
+    "category": "logo",
+    "price": 10,
+    "image": "uploads/1790700887918-2f3e0be0.jpg",
+    "description": "شعار",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "p1",
+    "title": "هوية بصرية فاخرة",
+    "titleEn": "Premium Brand Identity",
+    "category": "identity",
+    "price": 120,
+    "image": "images/identity-01.svg",
+    "description": "هوية بصرية متكاملة تشمل الشعار والألوان والخطوط وتطبيقات أساسية.",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "p2",
+    "title": "شعار هندسي",
+    "titleEn": "Geometric Logo",
+    "category": "logo",
+    "price": 45,
+    "image": "images/logo-01.svg",
+    "description": "شعار احترافي قابل للتعديل مناسب للشركات والمشاريع الناشئة.",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "p3",
+    "title": "حزمة منشورات اجتماعية",
+    "titleEn": "Social Media Pack",
+    "category": "social",
+    "price": 35,
+    "image": "images/social-01.svg",
+    "description": "قوالب متناسقة لمنصات التواصل الاجتماعي بصيغة قابلة للتعديل.",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "p4",
+    "title": "واجهة تطبيق UI/UX",
+    "titleEn": "UI/UX Interface",
+    "category": "uiux",
+    "price": 80,
+    "image": "images/uiux-01.svg",
+    "description": "تصميم واجهة حديثة لتطبيق أو منصة رقمية مع نظام مكونات واضح.",
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "p5",
+    "title": "ملصق إعلاني",
+    "titleEn": "Advertising Poster",
+    "category": "poster",
+    "price": 30,
+    "image": "images/poster-01.svg",
+    "description": "ملصق إعلاني عالي الجودة مناسب للطباعة والنشر الرقمي.",
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "p6",
+    "title": "بطاقة أعمال",
+    "titleEn": "Business Card",
+    "category": "print",
+    "price": 18,
+    "image": "images/print-01.svg",
+    "description": "بطاقة أعمال أنيقة مع ملف جاهز للطباعة.",
+    "featured": false,
+    "active": true
+  }
+]
